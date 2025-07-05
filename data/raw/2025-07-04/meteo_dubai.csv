@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+Dubai,2025-07-05T16:51:11.341648,32.96,32.96,34.14,70,996,3.6,250,0,0,0,Clear,ciel dégagé,14400,2025-07-05T01:33:23,2025-07-05T15:12:58

@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+London,2025-07-03T08:02:01.184050,18.33,16.86,19.74,55,1028,3.09,330,0,0,2,Clear,ciel dégagé,3600,2025-07-03T03:49:00,2025-07-03T20:20:10

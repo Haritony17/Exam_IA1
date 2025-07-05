@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+Tokyo,2025-07-05T16:51:02.321513,27.73,25.7,28.68,77,1003,1.03,0,0,0,75,Clouds,nuageux,32400,2025-07-05T19:31:06,2025-07-06T10:00:23

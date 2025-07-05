@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+Paris,2025-07-05T16:51:38.496661,25.51,24.52,27.36,30,1017,6.17,290,0,0,0,Clear,ciel dégagé,7200,2025-07-05T03:53:53,2025-07-05T19:56:08

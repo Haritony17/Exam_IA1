@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+New York,2025-07-05T16:51:15.938156,28.61,27.19,30.16,41,1021,2.68,224,0,0,0,Clear,ciel dégagé,-14400,2025-07-05T09:30:45,2025-07-06T00:30:12

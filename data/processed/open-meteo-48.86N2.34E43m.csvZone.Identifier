@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://open-meteo.com/
+HostUrl=https://api.open-meteo.com/v1/forecast?latitude=48.8534&longitude=2.3488&hourly=temperature_2m,wind_speed_10m&start_date=2025-05-01&end_date=2025-07-03&format=csv

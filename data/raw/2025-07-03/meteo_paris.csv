@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+Paris,2025-07-03T08:02:01.221111,20.11,19.43,21.32,65,1027,4.63,40,0,0,40,Clouds,partiellement nuageux,7200,2025-07-03T03:52:26,2025-07-03T19:56:55

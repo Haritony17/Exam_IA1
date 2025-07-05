@@ -1,0 +1,2 @@
+ville,date_extraction,temp,temp_min,temp_max,humidity,pressure,wind_speed,wind_deg,rain_1h,snow_1h,clouds,weather_main,weather_desc,timezone,sunrise,sunset
+Sydney,2025-07-03T08:02:04.385009,15.23,13.75,15.76,57,1011,4.12,250,0,0,100,Clouds,couvert,36000,2025-07-02T21:00:48,2025-07-03T06:57:33
